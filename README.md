@@ -1,4 +1,4 @@
-[![Java CI with Gradle](https://github.com/PavelOsharin/WebTestSelenid/actions/workflows/gradle.yml/badge.svg)](https://github.com/PavelOsharin/WebTestSelenid/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/PavelOsharin/WebTest/actions/workflows/gradle.yml/badge.svg)](https://github.com/PavelOsharin/WebTest/actions/workflows/gradle.yml)
 
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
